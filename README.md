@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 Meus hobbies é estudar matemática e fazer pesquisas estatísticas, aqui você vai encontrar alguns projetos relacionado a Data Science, Web Scraping, Data Visualization e Storytelling, Business Intelligence, Scripts de Automação, SQL, Algoritmos de Machine Learning e Cases de Análise de Dados.
 
 - 🤓 Atualmente estou me aperfeiçoando em Negócios, Cálculos e Programação
-- 😄 Pronouns: she/her
 
 <div>
   <a href="https://github.com/NeresWell">
